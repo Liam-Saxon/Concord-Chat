@@ -1,0 +1,4 @@
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSClient.SGSclient.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ConcordClient.csproj.GenerateResource.cache

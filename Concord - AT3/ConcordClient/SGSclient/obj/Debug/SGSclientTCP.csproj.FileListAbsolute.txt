@@ -1,0 +1,12 @@
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csproj.GenerateResource.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.pdb
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\Database.mdf
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\Database_log.ldf
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe.config

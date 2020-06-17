@@ -1,0 +1,16 @@
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\bin\Debug\Server.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\bin\Debug\Server.pdb
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\SGSserverTCP.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\SGSserverTCP.csproj.GenerateResource.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.pdb
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\bin\Debug\Server.exe
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\bin\Debug\Server.pdb
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\SGSserverTCP.csprojAssemblyReference.cache
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.SGSserverForm.resources
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.Properties.Resources.resources
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\SGSserverTCP.csproj.GenerateResource.cache
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.exe
+H:\My files\Dipoma\Programming III\Visual Studio\TCP Chat\SGSserverTCP\Server\obj\Debug\Server.pdb

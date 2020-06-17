@@ -1,0 +1,24 @@
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\Database.mdf
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\Database_log.ldf
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe.config
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSClient.csprojAssemblyReference.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.SGSclient.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSClient.csproj.GenerateResource.cache
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\Liam\Desktop\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.pdb
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\bin\Debug\Database.mdf
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\bin\Debug\Database_log.ldf
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\bin\Debug\SGSclient.exe.config
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\bin\Debug\SGSclient.exe
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\bin\Debug\SGSclient.pdb
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSClient.csprojAssemblyReference.cache
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSclient.SGSclient.resources
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSClient.csproj.GenerateResource.cache
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSclient.exe
+H:\My files\Dipoma\Programming III\Visual Studio\Concord - AT3\ConcordClient\SGSclient\obj\Debug\SGSclient.pdb
